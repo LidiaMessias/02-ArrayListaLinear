@@ -1,5 +1,8 @@
 # Lista Linear
 
+Lidia Luzia Messias
+lidia.messias@fatec.sp.gov.br
+
 Faça um fork deste repositorio e implemente a função buscarElemento
 
 **buscarElemento:**
